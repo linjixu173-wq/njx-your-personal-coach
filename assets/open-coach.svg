@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="176" viewBox="0 0 760 176" role="img" aria-labelledby="title description">
+  <title id="title">你的专属小教练 — 点击打开健身网站</title>
+  <desc id="description">电脑和手机均可使用，提供训练计划、训练记录和 AI 复盘。</desc>
+  <rect x="1" y="1" width="758" height="174" rx="18" fill="#151c17" stroke="#3c4b32" stroke-width="2"/>
+  <rect x="30" y="34" width="44" height="44" rx="9" fill="#d5f56b"/>
+  <text x="52" y="65" text-anchor="middle" fill="#182012" font-family="Arial,sans-serif" font-size="30" font-weight="700">C</text>
+  <g font-family="Microsoft YaHei,PingFang SC,Noto Sans CJK SC,sans-serif">
+    <text x="91" y="66" fill="#f3f5ef" font-size="30" font-weight="700">你的专属小教练</text>
+    <text x="31" y="117" fill="#b7c4ad" font-size="18">训练计划 · 训练记录 · AI 复盘</text>
+    <text x="31" y="147" fill="#94a58b" font-size="14">在线使用 · 电脑和手机</text>
+    <rect x="520" y="60" width="205" height="58" rx="9" fill="#d5f56b"/>
+    <text x="622.5" y="97" text-anchor="middle" fill="#182012" font-size="21" font-weight="700">立即打开网站</text>
+  </g>
+</svg>
